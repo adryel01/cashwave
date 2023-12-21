@@ -1,0 +1,29 @@
+
+.TextPolicies{
+	color: #333;
+	background-color: #fff;
+	max-width: 100vw;
+	width: 100%;
+	/* height: 100%; */
+	display: flex;
+	position: absolute;
+	top: 150px;
+	left: 0;
+}
+
+.PoliciesContainer{
+	margin: 8px;
+	display: flex;
+	flex-direction: column;
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 8px;
+}
+
+.PoliciesContainer>div{
+	display: flex;
+	flex-direction: column;
+	text-align: left;
+}
+
+
