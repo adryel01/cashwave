@@ -1,4 +1,5 @@
 import { BetterCheckout } from "../../components/BetterCheckout";
+import { FenyxComponent } from "../../components/FenyxComponent";
 import { Footer } from "../../components/Footer";
 import { HeaderContainer } from "../../components/Header";
 import { Integration } from "../../components/IntegrationFast";
@@ -15,11 +16,12 @@ export function Home (){
 		<div>
 			<HeaderContainer />
 			<Intro/>
-			<Skills/>
-			<BetterCheckout/>
+			{/* <Skills/> */}
+			<FenyxComponent/>
+			{/* <BetterCheckout/> */}
 			<Integration/>
 			<Partners/>
-			<TutorialLink/>
+			{/* <TutorialLink/> */}
 			<Whatsapp/>
 			<Footer/>
 		</div>

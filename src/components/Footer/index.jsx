@@ -13,7 +13,7 @@ export function Footer() {
 			<nav>
 				<div className='LeftFooter'>
 					<h2 className='LogoFooter'>
-						<img src={cashtime} alt="" />
+						<h3>Cash<span className='WaveName'>Wave</span></h3>
 					</h2>
 					<div className='IconsFooter'>
 						<FaInstagram color='#fff' />
@@ -25,7 +25,7 @@ export function Footer() {
 					<h3>
 						Fale Conosco
 					</h3>
-					<p><b>Email:</b> suporte@cashtimepay.com.br</p>
+					<p><b>Email:</b> suporte@cashwave.com.br</p>
 				</div>
 				<div className='RightFooter'>
 					<h3>
@@ -36,13 +36,13 @@ export function Footer() {
 				</div>
 			</nav>
 			<div className='CopyRight'>
-				<span>© Copyright 2023・Cashtime・Todos os direitos reservados.</span>
+				<span>© Copyright 2024・CashWave・Todos os direitos reservados.</span>
 				<div>
-					<p>CASH TIME PAY PRODUTOS E SERVICOS DIGITAIS LTDA</p>
-					<span>R MAGNOLIAS, Nº 1560, Q101B L11, PRQ OESTE INDUSTRIAL</span>
-					<span>CEP 74.375-770, GOIÂNIA-GO</span>
+					<p>CASHWAVE FACILITADORA DE PAGAMENTO LTDA</p>
+					<span>AV PADRE WENDEL, Nº 1089, Q565 L11 SALA01, BRO AEROVIARIO</span>
+					<span>CEP 74.735-115, GOIÂNIA-GO</span>
 				</div>
-				<span>CNPJ: 37.202.552/0001-92</span>
+				<span>CNPJ: 51.927.973/0001-85</span>
 			</div>
 		</footer>
 	)

@@ -17,14 +17,14 @@ export function TermsComponent() {
 					<p>S&atilde;o Partes deste instrumento:</p>
 
 
-					<p>Na qualidade de CONTRATADA: CASHTIME, sediada em RUA DAS MAGNÓLIAS, Q101B L11, Nº1560, CEP 74.375-770, Goiânia-GO, representada como CASH TIME PAY PRODUTOS E SERVICOS DIGITAIS LTDA no seu contrato social.</p>
+					<p>Na qualidade de CONTRATADA: CASHWAVE, sediada em AV PADRE WENDEL, Nº 1089, Q565 L11 SALA01, BRO AEROVIARIO, CEP 74.735-115, GOIÂNIA-GO, representada como CASHWAVE FACILITADORA DE PAGAMENTO LTDA no seu contrato social.</p>
 
 
 					<p>Na qualidade de CONTRATANTE: Empresa que afirmar que leu e assinou estes termos de uso.</p>
 
 
 					<ol start="2">
-						<li>PRAZO DO CONTRATO: Enquanto durar a mensalidade ou contrata&ccedil;&atilde;o de qualquer produto da CASHTIME .</li>
+						<li>PRAZO DO CONTRATO: Enquanto durar a mensalidade ou contrata&ccedil;&atilde;o de qualquer produto da CASHWAVE .</li>
 					</ol>
 
 
@@ -42,10 +42,10 @@ export function TermsComponent() {
 					<p>O objeto deste Contrato &eacute; estipular as regras da rela&ccedil;&atilde;o comercial DA CONTRATADA com o CONTRATANTE, que utilizar&aacute; os servi&ccedil;os de processamento e gerenciamento de pagamentos online da CONTRATADA.</p>
 
 
-					<p>3.1. A inclus&atilde;o do cliente &agrave; CASHTIME est&aacute; condicionada &agrave; aceita&ccedil;&atilde;o pr&eacute;via do Cliente pela CONTRATADA, conforme crit&eacute;rios de interesse comercial, estando sujeita a verifica&ccedil;&atilde;o pr&eacute;via de inexist&ecirc;ncia de irregularidade na identifica&ccedil;&atilde;o e/ou nos dados cadastrais do cliente, de seu representante legal e/ou procurador, bem como normas internas de KYC (Know Your Customer), cabendo ao cliente encaminhar toda a documenta&ccedil;&atilde;o e informa&ccedil;&otilde;es exigidas pela CASHTIME, no prazo m&aacute;ximo de 15 (quinze) dias, a contar da solicita&ccedil;&atilde;o.</p>
+					<p>3.1. A inclus&atilde;o do cliente &agrave; CASHWAVE est&aacute; condicionada &agrave; aceita&ccedil;&atilde;o pr&eacute;via do Cliente pela CONTRATADA, conforme crit&eacute;rios de interesse comercial, estando sujeita a verifica&ccedil;&atilde;o pr&eacute;via de inexist&ecirc;ncia de irregularidade na identifica&ccedil;&atilde;o e/ou nos dados cadastrais do cliente, de seu representante legal e/ou procurador, bem como normas internas de KYC (Know Your Customer), cabendo ao cliente encaminhar toda a documenta&ccedil;&atilde;o e informa&ccedil;&otilde;es exigidas pela CASHWAVE, no prazo m&aacute;ximo de 15 (quinze) dias, a contar da solicita&ccedil;&atilde;o.</p>
 
 
-					<p>3.2. Ao clicar na op&ccedil;&atilde;o &ldquo;LI e ACEITO os termos do contrato&rdquo;, o CONTRATANTE declara ter lido, compreendido e aceito, sem reservas, todas as cl&aacute;usulas e condi&ccedil;&otilde;es do presente Contrato, a Pol&iacute;tica de Seguran&ccedil;a, Privacidade e Direitos Autorais da CASHTIME.</p>
+					<p>3.2. Ao clicar na op&ccedil;&atilde;o &ldquo;LI e ACEITO os termos do contrato&rdquo;, o CONTRATANTE declara ter lido, compreendido e aceito, sem reservas, todas as cl&aacute;usulas e condi&ccedil;&otilde;es do presente Contrato, a Pol&iacute;tica de Seguran&ccedil;a, Privacidade e Direitos Autorais da CASHWAVE.</p>
 
 
 					<p>3.2.1. O USU&Aacute;RIO declara estar ciente e concorda expressamente, que &eacute; seu dever ler e se informar sobre eventuais altera&ccedil;&otilde;es deste Termo de Uso.</p>
@@ -56,7 +56,7 @@ export function TermsComponent() {
 					</ol>
 
 
-					<p>4.1. O programa CASHTIME consiste num sistema capaz de intermediar o processamento eletr&ocirc;nico de transa&ccedil;&otilde;es com utiliza&ccedil;&atilde;o dos meios de pagamentos especificados na cl&aacute;usula 2.5, abaixo, bem como a estrutura de sistema de pagamentos, no modelo de &ldquo;Banking as a Service&rdquo;, de forma totalmente segura e baseado em protocolo HTTPS, permitindo a configura&ccedil;&atilde;o de m&uacute;ltiplos clientes compartilhando a mesma infraestrutura de processamento, com total isolamento e tendo como principais caracter&iacute;sticas:</p>
+					<p>4.1. O programa CASHWAVE consiste num sistema capaz de intermediar o processamento eletr&ocirc;nico de transa&ccedil;&otilde;es com utiliza&ccedil;&atilde;o dos meios de pagamentos especificados na cl&aacute;usula 2.5, abaixo, bem como a estrutura de sistema de pagamentos, no modelo de &ldquo;Banking as a Service&rdquo;, de forma totalmente segura e baseado em protocolo HTTPS, permitindo a configura&ccedil;&atilde;o de m&uacute;ltiplos clientes compartilhando a mesma infraestrutura de processamento, com total isolamento e tendo como principais caracter&iacute;sticas:</p>
 
 
 					<ul>
@@ -79,7 +79,7 @@ export function TermsComponent() {
 						<li>Acesso ao relat&oacute;rio de todas as transa&ccedil;&otilde;es efetuadas no per&iacute;odo, com identifica&ccedil;&atilde;o daquelas j&aacute; aprovadas e j&aacute; pagas.</li>
 					</ul>
 
-					<p>4.2. A cess&atilde;o da licen&ccedil;a(s) de uso do software denominado &ldquo;CASHTIME&rdquo;, de titularidade da CONTRATADA, ser&aacute; tempor&aacute;ria e n&atilde;o exclusiva.</p>
+					<p>4.2. A cess&atilde;o da licen&ccedil;a(s) de uso do software denominado &ldquo;CASHWAVE&rdquo;, de titularidade da CONTRATADA, ser&aacute; tempor&aacute;ria e n&atilde;o exclusiva.</p>
 
 
 					<p>4.3. A licen&ccedil;a ora CONTRATADA n&atilde;o inclui as negocia&ccedil;&otilde;es e provid&ecirc;ncias necess&aacute;rias para a utiliza&ccedil;&atilde;o dos meios de pagamentos disponibilizados pelas operadoras de cart&otilde;es de cr&eacute;ditos e institui&ccedil;&otilde;es integrantes do arranjo de pagamento (adquirentes ou subadquirentes), tampouco garante a sua aceita&ccedil;&atilde;o pelas mesmas.</p>
@@ -88,7 +88,7 @@ export function TermsComponent() {
 					<p>4.4. A UTILIZA&Ccedil;&Atilde;O DA LICEN&Ccedil;A DO SOFTWARE PELA CONTRATANTE N&Atilde;O IMPLICA EM QUALQUER FORMA DE PARTICIPA&Ccedil;&Atilde;O, ASSOCIA&Ccedil;&Atilde;O OU SOCIEDADE NAS OPERA&Ccedil;&Otilde;ES QUE VENHAM A GERAR OS PAGAMENTOS, E QUE SER&Atilde;O EFETUADOS ELETRONICAMENTE POR MEIO DOS SERVI&Ccedil;OS PRESTADOS PELA CONTRATADA. AS MENCIONADAS TRANSA&Ccedil;&Otilde;ES OCORRER&Atilde;O DE FORMA AUTOM&Aacute;TICA, MEDIANTE ACEITA&Ccedil;&Atilde;O DOS CLIENTES FINAIS DA CONTRATANTE, SEM EFETIVA PARTICIPA&Ccedil;&Atilde;O OU DOM&Iacute;NIO DA CONTRATADA.</p>
 
 
-					<p>4.5. O software &ldquo;CASHTIME&rdquo; &eacute; capaz de processar transa&ccedil;&otilde;es eletr&ocirc;nicas de pagamento, desde que possibilitados pelas adquirentes ou subadquirentes contratadas pelo Cliente, atrav&eacute;s dos seguintes meios:</p>
+					<p>4.5. O software &ldquo;CASHWAVE&rdquo; &eacute; capaz de processar transa&ccedil;&otilde;es eletr&ocirc;nicas de pagamento, desde que possibilitados pelas adquirentes ou subadquirentes contratadas pelo Cliente, atrav&eacute;s dos seguintes meios:</p>
 
 
 					<ul>
@@ -113,18 +113,18 @@ export function TermsComponent() {
 
 					<p>4.5.2. A CONTRATANTE concorda que est&aacute; contratando uma solu&ccedil;&atilde;o de pagamento para processamento das transa&ccedil;&otilde;es financeiras com seus clientes digitais. A CONTRATANTE tamb&eacute;m pode contratar, mediante contrata&ccedil;&atilde;o espec&iacute;fica, antecipa&ccedil;&otilde;es autom&aacute;ticas de seus receb&iacute;veis, que podem variar entre 0% e 100% dos valores total da venda mensal, de acordo com sua a agenda de receb&iacute;veis, e a depender da disponibilidade da CONTRATADA e/ou das institui&ccedil;&otilde;es financeiras integrantes do arranjo de pagamento que o CONTRATANTE mantiver rela&ccedil;&atilde;o.</p>
 
-					<p>4.5.3. O ESTABELECIMENTO RECONHECE E SE DECLARA DE ACORDO QUE, POR MEIO DO PIX CHECKOUT, A CASHTIMEPAY ATUARÁ COMO AGENTE DE COLETA DOS PAGAMENTOS EFETUADOS PELOS CLIENTES. A CASHTIME SERÁ O USUÁRIO FINAL RECEBEDOR DOS VALORES TRANSACIONADOS VIA PIX, OBRIGANDO-SE A REALIZAR O REPASSE DAS QUANTIAS DEVIDAS AO ESTABELECIMENTO, DEDUZIDAS AS TARIFAS E ENCARGOS APLICÁVEIS, Fluxo de pagamento.O fluxo de pagamento para realização de transações via pix e recebimento do repasse pelo Estabelecimentos ocorre da seguinte maneira: após a habilitação do pix checkout, o cliente poderá solicitar opção de pagamento via Pix na Plataforma do Parceiro;
+					<p>4.5.3. O ESTABELECIMENTO RECONHECE E SE DECLARA DE ACORDO QUE, POR MEIO DO PIX CHECKOUT, A CASHWAVE ATUARÁ COMO AGENTE DE COLETA DOS PAGAMENTOS EFETUADOS PELOS CLIENTES. A CASHWAVE SERÁ O USUÁRIO FINAL RECEBEDOR DOS VALORES TRANSACIONADOS VIA PIX, OBRIGANDO-SE A REALIZAR O REPASSE DAS QUANTIAS DEVIDAS AO ESTABELECIMENTO, DEDUZIDAS AS TARIFAS E ENCARGOS APLICÁVEIS, Fluxo de pagamento.O fluxo de pagamento para realização de transações via pix e recebimento do repasse pelo Estabelecimentos ocorre da seguinte maneira: após a habilitação do pix checkout, o cliente poderá solicitar opção de pagamento via Pix na Plataforma do Parceiro;
 					
-					por meio da integração com os sistemas cashtime, o Parceiro solicitará a Cashtime geração de ação do pagamento via Pix, fornecendo os dados necessários conforme solicitados pela Cashtime</p>
+					por meio da integração com os sistemas CASHWAVE, o Parceiro solicitará a CASHWAVE geração de ação do pagamento via Pix, fornecendo os dados necessários conforme solicitados pela CASHWAVE</p>
 
 
-					<p>4.6. O programa &ldquo;CASHTIME&rdquo; permanecer&aacute; instalado no data center da CONTRATADA e o CONTRATANTE ter&aacute; acesso ao mesmo via internet, sendo-lhe disponibilizadas as licen&ccedil;as nos termos contratados.</p>
+					<p>4.6. O programa &ldquo;CASHWAVE&rdquo; permanecer&aacute; instalado no data center da CONTRATADA e o CONTRATANTE ter&aacute; acesso ao mesmo via internet, sendo-lhe disponibilizadas as licen&ccedil;as nos termos contratados.</p>
 
 
-					<p>4.7. O CONTRATANTE n&atilde;o ter&aacute; direito a eventuais novas funcionalidades acrescidas ao programa &ldquo;CASHTIME&rdquo;, hip&oacute;tese em que, caso pretenda novos servi&ccedil;os oferecidos pela CONTRATADA, dever&aacute; efetuar nova contrata&ccedil;&atilde;o. O CONTRATANTE somente ter&aacute; direito ao aperfei&ccedil;oamento das funcionalidades j&aacute; existentes no programa cuja licen&ccedil;a &eacute; contratada neste ato.</p>
+					<p>4.7. O CONTRATANTE n&atilde;o ter&aacute; direito a eventuais novas funcionalidades acrescidas ao programa &ldquo;CASHWAVE&rdquo;, hip&oacute;tese em que, caso pretenda novos servi&ccedil;os oferecidos pela CONTRATADA, dever&aacute; efetuar nova contrata&ccedil;&atilde;o. O CONTRATANTE somente ter&aacute; direito ao aperfei&ccedil;oamento das funcionalidades j&aacute; existentes no programa cuja licen&ccedil;a &eacute; contratada neste ato.</p>
 
 
-					<p>4.8. O CONTRATANTE declara possuir ci&ecirc;ncia de que a CASHTIME oferece uma estrutura de subadquir&ecirc;ncia White Label Product, que n&atilde;o integrar&aacute; o Sistema de Pagamentos Brasileiro (SPB), desde que, nos termos da Resolu&ccedil;&atilde;o BACEN n&ordm; 150 de 06 de outubro de 2012, e o conjunto de participantes apresente, de forma consolidada e acumulada nos &uacute;ltimos 12 (doze) meses, volumes inferiores a:</p>
+					<p>4.8. O CONTRATANTE declara possuir ci&ecirc;ncia de que a CASHWAVE oferece uma estrutura de subadquir&ecirc;ncia White Label Product, que n&atilde;o integrar&aacute; o Sistema de Pagamentos Brasileiro (SPB), desde que, nos termos da Resolu&ccedil;&atilde;o BACEN n&ordm; 150 de 06 de outubro de 2012, e o conjunto de participantes apresente, de forma consolidada e acumulada nos &uacute;ltimos 12 (doze) meses, volumes inferiores a:</p>
 
 
 					<ul>
@@ -298,7 +298,7 @@ export function TermsComponent() {
 					<p>9 &ndash; <strong>DAS OBRIGA&Ccedil;&Otilde;ES DA CONTRATADA</strong></p>
 
 
-					<p>9.1. Prestar suporte t&eacute;cnico consistente unicamente em informa&ccedil;&otilde;es e orienta&ccedil;&otilde;es sobre a utiliza&ccedil;&atilde;o da &ldquo;CASHTIME&rdquo;, pelo telefone dispon&iacute;vel no site da CONTRATADA: https://www.cashtimepay.com.br e por WhatsApp, em hor&aacute;rio comercial, das 8h00 &agrave;s 18h00, de segunda-feira a sexta-feira, exclu&iacute;dos os feriados. O CONTRATANTE dever&aacute; verificar nossa disponibilidade em pontos facultativos.</p>
+					<p>9.1. Prestar suporte t&eacute;cnico consistente unicamente em informa&ccedil;&otilde;es e orienta&ccedil;&otilde;es sobre a utiliza&ccedil;&atilde;o da &ldquo;CASHWAVE&rdquo;, pelo telefone dispon&iacute;vel no site da CONTRATADA: https://www.cashwave.com.br e por WhatsApp, em hor&aacute;rio comercial, das 8h00 &agrave;s 18h00, de segunda-feira a sexta-feira, exclu&iacute;dos os feriados. O CONTRATANTE dever&aacute; verificar nossa disponibilidade em pontos facultativos.</p>
 
 
 					<p>9.1.1. A CONTRATADA n&atilde;o prestar&aacute; suporte t&eacute;cnico referente &agrave; adapta&ccedil;&atilde;o do software &agrave; programa&ccedil;&atilde;o e/ou site utilizados pela CONTRATANTE.</p>
@@ -307,10 +307,10 @@ export function TermsComponent() {
 					<p>9.2. Informar ao CONTRATANTE, com 3 (tr&ecirc;s) dias de anteced&ecirc;ncia, sobre eventuais interrup&ccedil;&otilde;es necess&aacute;rias para os ajustes t&eacute;cnicos ou manuten&ccedil;&atilde;o que demandem mais de 6 (seis) horas de dura&ccedil;&atilde;o e que possam causar preju&iacute;zo &agrave; operacionalidade da licen&ccedil;a fornecida, salvo em caso de urg&ecirc;ncia.</p>
 
 
-					<p>9.2.1. Nos casos de urg&ecirc;ncia, assim entendidos aqueles que coloquem em risco o regular funcionamento do servidor onde est&aacute; o software &ldquo;CASHTIME&rdquo; e aqueles determinados por motivo de seguran&ccedil;a decorrentes de vulnerabilidades detectadas, as interrup&ccedil;&otilde;es ocorrer&atilde;o sem pr&eacute;vio-aviso e n&atilde;o dever&atilde;o superar a dura&ccedil;&atilde;o de 2 (duas) horas cada.</p>
+					<p>9.2.1. Nos casos de urg&ecirc;ncia, assim entendidos aqueles que coloquem em risco o regular funcionamento do servidor onde est&aacute; o software &ldquo;CASHWAVE&rdquo; e aqueles determinados por motivo de seguran&ccedil;a decorrentes de vulnerabilidades detectadas, as interrup&ccedil;&otilde;es ocorrer&atilde;o sem pr&eacute;vio-aviso e n&atilde;o dever&atilde;o superar a dura&ccedil;&atilde;o de 2 (duas) horas cada.</p>
 
 
-					<p>9.2.2. As manuten&ccedil;&otilde;es e interrup&ccedil;&otilde;es a serem informadas s&atilde;o &uacute;nica e exclusivamente aquelas que interfiram com a operacionalidade da &ldquo;CASHTIME&rdquo;, ficando dispensadas informa&ccedil;&otilde;es pr&eacute;vias sobre interrup&ccedil;&otilde;es, por motivos t&eacute;cnicos, de licen&ccedil;as adicionais que n&atilde;o impliquem em preju&iacute;zo para a operacionalidade da utiliza&ccedil;&atilde;o das licen&ccedil;as da CONTRATADA.</p>
+					<p>9.2.2. As manuten&ccedil;&otilde;es e interrup&ccedil;&otilde;es a serem informadas s&atilde;o &uacute;nica e exclusivamente aquelas que interfiram com a operacionalidade da &ldquo;CASHWAVE&rdquo;, ficando dispensadas informa&ccedil;&otilde;es pr&eacute;vias sobre interrup&ccedil;&otilde;es, por motivos t&eacute;cnicos, de licen&ccedil;as adicionais que n&atilde;o impliquem em preju&iacute;zo para a operacionalidade da utiliza&ccedil;&atilde;o das licen&ccedil;as da CONTRATADA.</p>
 
 
 					<p>9.3. A interrup&ccedil;&atilde;o que interfira ou que cause preju&iacute;zo &agrave; operacionalidade da licen&ccedil;a e seja necess&aacute;ria para a manuten&ccedil;&atilde;o do sistema ser&aacute; realizada, num per&iacute;odo n&atilde;o superior a 6 (seis) horas, preferencialmente, entre as 00h00 e as 6h00hs.</p>
@@ -322,13 +322,13 @@ export function TermsComponent() {
 					<p>9.5. Manter o sistema dispon&iacute;vel para a utiliza&ccedil;&atilde;o por, pelo menos, 97% (noventa e sete por cento) do tempo a cada m&ecirc;s.</p>
 
 
-					<p>9.6. Disponibilizar, por meio do site https://www.cashtimepay.com.br, as instru&ccedil;&otilde;es que possibilitem que o programa de pagamento e licen&ccedil;as sejam utilizados corretamente pela CONTRATANTE.</p>
+					<p>9.6. Disponibilizar, por meio do site https://www.cashwave.com.br, as instru&ccedil;&otilde;es que possibilitem que o programa de pagamento e licen&ccedil;as sejam utilizados corretamente pela CONTRATANTE.</p>
 
 
-					<p>9.7. Garantir o sigilo dos dados trafegados atrav&eacute;s da CASHTIME, dentro dos padr&otilde;es de mercado para opera&ccedil;&otilde;es comerciais deste tipo. Sem preju&iacute;zo ao disposto acima, a CONTRATADA poder&aacute; divulgar todos e quaisquer dados trafegados atrav&eacute;s da CASHTIME caso tal divulga&ccedil;&atilde;o se d&ecirc; nos termos da Cl&aacute;usula 13, abaixo.</p>
+					<p>9.7. Garantir o sigilo dos dados trafegados atrav&eacute;s da CASHWAVE, dentro dos padr&otilde;es de mercado para opera&ccedil;&otilde;es comerciais deste tipo. Sem preju&iacute;zo ao disposto acima, a CONTRATADA poder&aacute; divulgar todos e quaisquer dados trafegados atrav&eacute;s da CASHWAVE caso tal divulga&ccedil;&atilde;o se d&ecirc; nos termos da Cl&aacute;usula 13, abaixo.</p>
 
 
-					<p>9.8. A CONTRATADA se responsabiliza, &uacute;nica e exclusivamente, pela integra&ccedil;&atilde;o tecnol&oacute;gica entre a tecnologia de pagamento da CASHTIME e as operadoras financeiras. Quaisquer tipos de danos n&atilde;o provenientes de quest&otilde;es tecnol&oacute;gicas desenvolvidas pela CONTRATADA, n&atilde;o ser&atilde;o de responsabilidade da CONTRATADA. Portanto, a CONTRATADA n&atilde;o ser&aacute; respons&aacute;vel por transa&ccedil;&otilde;es com cart&otilde;es furtados ou roubados e/ou transa&ccedil;&otilde;es de Chargeback e ataques cibern&eacute;ticos ocorridos na plataforma, entre outros.</p>
+					<p>9.8. A CONTRATADA se responsabiliza, &uacute;nica e exclusivamente, pela integra&ccedil;&atilde;o tecnol&oacute;gica entre a tecnologia de pagamento da CASHWAVE e as operadoras financeiras. Quaisquer tipos de danos n&atilde;o provenientes de quest&otilde;es tecnol&oacute;gicas desenvolvidas pela CONTRATADA, n&atilde;o ser&atilde;o de responsabilidade da CONTRATADA. Portanto, a CONTRATADA n&atilde;o ser&aacute; respons&aacute;vel por transa&ccedil;&otilde;es com cart&otilde;es furtados ou roubados e/ou transa&ccedil;&otilde;es de Chargeback e ataques cibern&eacute;ticos ocorridos na plataforma, entre outros.</p>
 
 
 					<p>10 &ndash; <strong>DAS OBRIGA&Ccedil;&Otilde;ES DA CONTRATANTE</strong></p>
@@ -349,7 +349,7 @@ export function TermsComponent() {
 					<p>10.5. Responder com exclusividade e integralmente pelas atividades que gerar&atilde;o os recebimentos a serem processados eletronicamente com a utiliza&ccedil;&atilde;o da Plataforma em tudo o que diga respeito, &agrave; exemplo: qualidade e origem dos produtos e servi&ccedil;os comercializados; fiel cumprimento dos contratos originadores dos recebimentos, e por qualquer outro fato ou evento que seja relevante para a origem desses recebimentos, isentando a CONTRATADA de qualquer responsabilidade.</p>
 
 
-					<p>10.6. Manter sistemas operantes e atualizados que consigam fazer a interface com a CASHTIME, durante toda a vig&ecirc;ncia deste Contrato.</p>
+					<p>10.6. Manter sistemas operantes e atualizados que consigam fazer a interface com a CASHWAVE, durante toda a vig&ecirc;ncia deste Contrato.</p>
 
 
 					<p>10.7. Manter em confidencialidade os termos constantes neste Contrato, bem como os processos utilizados pela CONTRATADA em seu software.</p>
@@ -364,7 +364,7 @@ export function TermsComponent() {
 					<p>10.10. Indenizar, de forma plena, regressivamente, a CONTRATADA em caso de condena&ccedil;&atilde;o judicial e/ou administrativa, em fun&ccedil;&atilde;o do presente contrato.</p>
 
 
-					<p>9.11. Responder, com exclusividade, pelos atos praticados por seus prepostos, administradores e/ou por toda e qualquer pessoa que venha a ter acesso ao c&oacute;digo de acesso &agrave; CASHTIME, declarando-se ciente de que a responsabilidade pelos atos praticados ser&aacute;, sempre, &uacute;nica e exclusiva da CONTRATANTE.</p>
+					<p>9.11. Responder, com exclusividade, pelos atos praticados por seus prepostos, administradores e/ou por toda e qualquer pessoa que venha a ter acesso ao c&oacute;digo de acesso &agrave; CASHWAVE, declarando-se ciente de que a responsabilidade pelos atos praticados ser&aacute;, sempre, &uacute;nica e exclusiva da CONTRATANTE.</p>
 
 
 					<p>10.12. Responsabilizar-se por todos os Usu&aacute;rios de seu arranjo de pagamento, que ser&atilde;o hierarquicamente submetidos &agrave; sua conta Master, inclusive colhendo a anu&ecirc;ncia de todos os participantes aos Termos de Uso da CONTRATADA.</p>
@@ -376,13 +376,13 @@ export function TermsComponent() {
 					<p>10.13.1. &Eacute; vedado &agrave; CONTRATANTE contratar, de forma direta ou indireta, ou ofertar proposta de emprego para colaboradores da CONTRATADA, seja para trabalhar direta ou indiretamente para a CONTRATANTE e/ou qualquer outra empresa e/ou pessoa ligada direta ou indiretamente &agrave; CONTRATANTE. Essa cl&aacute;usula &eacute; v&aacute;lida durante todo per&iacute;odo do contrato, mais um per&iacute;odo de 12 meses ap&oacute;s o t&eacute;rmino do contrato ou por todo o tempo que o funcion&aacute;rio/colaborador/empregado da CONTRATADA permane&ccedil;a contratado.</p>
 
 
-					<p>10.14. &Eacute; vedado &agrave; CONTRATANTE utilizar a plataforma CASHTIME para qualquer atividade que possa ser considerada ou interpretada como adiantamento de dinheiro, autofinanciamento, lavagem de dinheiro, empr&eacute;stimo ou outras formas semelhantes definidas em lei, outras atividades ilegais ou consideradas proibidas de acordo com os Termos e Condi&ccedil;&otilde;es. Na ocorr&ecirc;ncia de qualquer uma destas hip&oacute;teses, a CONTRATADA poder&aacute; suspender tempor&aacute;ria ou definitivamente o servi&ccedil;o e a Conta da CONTRATANTE.</p>
+					<p>10.14. &Eacute; vedado &agrave; CONTRATANTE utilizar a plataforma CASHWAVE para qualquer atividade que possa ser considerada ou interpretada como adiantamento de dinheiro, autofinanciamento, lavagem de dinheiro, empr&eacute;stimo ou outras formas semelhantes definidas em lei, outras atividades ilegais ou consideradas proibidas de acordo com os Termos e Condi&ccedil;&otilde;es. Na ocorr&ecirc;ncia de qualquer uma destas hip&oacute;teses, a CONTRATADA poder&aacute; suspender tempor&aacute;ria ou definitivamente o servi&ccedil;o e a Conta da CONTRATANTE.</p>
 
 
 					<p>11 &ndash; <strong>N&Iacute;VEIS M&Iacute;NIMOS DE SERVI&Ccedil;O</strong></p>
 
 
-					<p>11.1. Os n&iacute;veis m&iacute;nimos de servi&ccedil;o, ou Service Level Agreement (&ldquo;SLA&rdquo;), indicam o desempenho t&eacute;cnico proposto pela CONTRATADA, no &acirc;mbito do Contrato entendido como disponibiliza&ccedil;&atilde;o das licen&ccedil;as (CASHTIME) e atendimento aos chamados demandados pela CONTRATANTE, sendo certo que tal acordo n&atilde;o representa diminui&ccedil;&atilde;o de responsabilidade da CONTRATADA, mas sim indicador de excel&ecirc;ncia t&eacute;cnica, uma vez que em inform&aacute;tica n&atilde;o existe garantia integral (i.e. garantia de 100% (cem por cento), em rela&ccedil;&atilde;o aos n&iacute;veis de servi&ccedil;o.</p>
+					<p>11.1. Os n&iacute;veis m&iacute;nimos de servi&ccedil;o, ou Service Level Agreement (&ldquo;SLA&rdquo;), indicam o desempenho t&eacute;cnico proposto pela CONTRATADA, no &acirc;mbito do Contrato entendido como disponibiliza&ccedil;&atilde;o das licen&ccedil;as (CASHWAVE) e atendimento aos chamados demandados pela CONTRATANTE, sendo certo que tal acordo n&atilde;o representa diminui&ccedil;&atilde;o de responsabilidade da CONTRATADA, mas sim indicador de excel&ecirc;ncia t&eacute;cnica, uma vez que em inform&aacute;tica n&atilde;o existe garantia integral (i.e. garantia de 100% (cem por cento), em rela&ccedil;&atilde;o aos n&iacute;veis de servi&ccedil;o.</p>
 
 
 					<p>11.2. A CONTRATADA, desde que observadas as obriga&ccedil;&otilde;es a cargo da CONTRATANTE previstas no Contrato e desde que n&atilde;o haja qualquer outro fator que limite ou impossibilite a plena e integral presta&ccedil;&atilde;o dos servi&ccedil;os objeto do Contrato, tem condi&ccedil;&atilde;o t&eacute;cnica e operacional de oferecer o SLA estabelecido na tabela abaixo, em cada m&ecirc;s civil referente aos servi&ccedil;os de atendimento ao CONTRATANTE:</p>
@@ -421,7 +421,7 @@ export function TermsComponent() {
 					<p>97,00% do tempo</p>
 
 
-					<p>11.4. Entende-se por garantia de desempenho para efeitos do presente Contrato a acessibilidade pela CONTRATANTE aos programas licenciados (CASHTIME) e disponibilizados nos servidores da CONTRATADA, motivo pelo qual n&atilde;o ser&atilde;o computados, para efeito de apura&ccedil;&atilde;o do SLA:</p>
+					<p>11.4. Entende-se por garantia de desempenho para efeitos do presente Contrato a acessibilidade pela CONTRATANTE aos programas licenciados (CASHWAVE) e disponibilizados nos servidores da CONTRATADA, motivo pelo qual n&atilde;o ser&atilde;o computados, para efeito de apura&ccedil;&atilde;o do SLA:</p>
 
 
 					<ul>

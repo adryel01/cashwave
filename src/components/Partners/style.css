@@ -15,6 +15,11 @@
 	
 }
 
+.PartnersCards{
+	display: flex;
+	align-items: center;
+}
+
 @media (max-width:450px){
 	.PartnersContainer{
 		display: flex;
@@ -26,6 +31,7 @@
 		align-self: center;
 		margin: 0 auto;
 		border-radius: 16px;
+
 	}
 
 
@@ -40,5 +46,13 @@
 		margin: 0 auto;
 		margin-top: 12px;
 	}
+
+	.PartnersCards{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+
 
 }

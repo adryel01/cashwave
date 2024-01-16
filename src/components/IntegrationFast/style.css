@@ -2,9 +2,10 @@
 	margin-top: 32px;
 	display: flex;
 	flex-direction: row;
-	justify-content: space-between;
+	justify-content: center;
 	align-items: center;
 	color: #fff;
+	margin-bottom: 32px;
 }
 
 .IntegrationContainer>div>h2 {
@@ -18,10 +19,11 @@
 
 .ButtonIntegration {
 	font-size: 24px;
-	background: rgb(83, 218, 222);
-	background: linear-gradient(90deg, rgba(83, 218, 222, 1) 0%, rgba(83, 80, 179, 1) 100%);
+	background: #f5df19;
+	background: linear-gradient(90deg, #fff 0%, #f5df19 100%);
 	border: none;
 	color: #fff;
+	text-shadow: 1px 2px 2px #000;
 	animation: bounce 1s infinite;
 	margin-top: 16px;
 }
@@ -57,6 +59,7 @@
 		align-items: center;
 		color: #fff;
 		margin: 0 auto;
+
 	}
 
 	.IntegrationContainer>div>h2 {

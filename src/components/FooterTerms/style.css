@@ -5,9 +5,9 @@
 	padding: 50px 0px;
 	width: 100%;
 	position: absolute;
-	bottom: -10600px;
+	bottom: -10500px;
 	left: 0;
-	background-color: #333;
+	background-color: #fff;
 	z-index: 1;
 }
 
@@ -21,7 +21,7 @@ footer>nav{
 .LogoFooter{
 	font-size: 28px;
 	font-weight: bold;
-	color: #0edade;
+	color: #000;
 }
 
 .LogoFooter>img{
@@ -49,7 +49,7 @@ footer>nav{
 	display: flex;
 	flex-direction: column ;
 	align-items: center;
-	color: #fff;
+	color: #000;
 }
 
 .CenterFooter>h3{
@@ -66,7 +66,7 @@ footer>nav{
 	display: flex;
 	flex-direction: column ;
 	align-items: center;
-	color: #fff;
+	color: #000;
 }
 
 .RightFooter>h3{
@@ -86,17 +86,17 @@ footer>nav{
 	width: 80%;
 	margin: 0 auto;
 	margin-top: 24px;
-	color: #fff;
+	color: #000;
 }
 
 .Links{
 	text-decoration: inherit;
 	font-style: none;
-	color: #fff;
+	color: #000;
 }
 
 .Prefooter{
-	color: #fff;
+	color: #000;
 	margin-bottom: 50px;
 }
 
@@ -110,7 +110,7 @@ footer>nav{
 		position: absolute;
 		bottom: -22950px;
 		left: 0;
-		background-color: #333;
+		background-color: #fff;
 		z-index: 1;
 	}
 
@@ -129,7 +129,7 @@ footer>nav{
 		width: 80%;
 		margin: 0 auto;
 		margin-top: 24px;
-		color: #fff;
+		color: #000;
 		gap: 12px;
 	}
 
