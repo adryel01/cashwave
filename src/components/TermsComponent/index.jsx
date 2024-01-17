@@ -298,7 +298,7 @@ export function TermsComponent() {
 					<p>9 &ndash; <strong>DAS OBRIGA&Ccedil;&Otilde;ES DA CONTRATADA</strong></p>
 
 
-					<p>9.1. Prestar suporte t&eacute;cnico consistente unicamente em informa&ccedil;&otilde;es e orienta&ccedil;&otilde;es sobre a utiliza&ccedil;&atilde;o da &ldquo;CASHWAVE&rdquo;, pelo telefone dispon&iacute;vel no site da CONTRATADA: https://www.cashwave.com.br e por WhatsApp, em hor&aacute;rio comercial, das 8h00 &agrave;s 18h00, de segunda-feira a sexta-feira, exclu&iacute;dos os feriados. O CONTRATANTE dever&aacute; verificar nossa disponibilidade em pontos facultativos.</p>
+					<p>9.1. Prestar suporte t&eacute;cnico consistente unicamente em informa&ccedil;&otilde;es e orienta&ccedil;&otilde;es sobre a utiliza&ccedil;&atilde;o da &ldquo;CASHWAVE&rdquo;, pelo telefone dispon&iacute;vel no site da CONTRATADA: https://www.cashwavepagamentos.com.br e por WhatsApp, em hor&aacute;rio comercial, das 8h00 &agrave;s 18h00, de segunda-feira a sexta-feira, exclu&iacute;dos os feriados. O CONTRATANTE dever&aacute; verificar nossa disponibilidade em pontos facultativos.</p>
 
 
 					<p>9.1.1. A CONTRATADA n&atilde;o prestar&aacute; suporte t&eacute;cnico referente &agrave; adapta&ccedil;&atilde;o do software &agrave; programa&ccedil;&atilde;o e/ou site utilizados pela CONTRATANTE.</p>
@@ -322,7 +322,7 @@ export function TermsComponent() {
 					<p>9.5. Manter o sistema dispon&iacute;vel para a utiliza&ccedil;&atilde;o por, pelo menos, 97% (noventa e sete por cento) do tempo a cada m&ecirc;s.</p>
 
 
-					<p>9.6. Disponibilizar, por meio do site https://www.cashwave.com.br, as instru&ccedil;&otilde;es que possibilitem que o programa de pagamento e licen&ccedil;as sejam utilizados corretamente pela CONTRATANTE.</p>
+					<p>9.6. Disponibilizar, por meio do site https://www.cashwavepagamentos.com.br, as instru&ccedil;&otilde;es que possibilitem que o programa de pagamento e licen&ccedil;as sejam utilizados corretamente pela CONTRATANTE.</p>
 
 
 					<p>9.7. Garantir o sigilo dos dados trafegados atrav&eacute;s da CASHWAVE, dentro dos padr&otilde;es de mercado para opera&ccedil;&otilde;es comerciais deste tipo. Sem preju&iacute;zo ao disposto acima, a CONTRATADA poder&aacute; divulgar todos e quaisquer dados trafegados atrav&eacute;s da CASHWAVE caso tal divulga&ccedil;&atilde;o se d&ecirc; nos termos da Cl&aacute;usula 13, abaixo.</p>

@@ -244,7 +244,7 @@ export function PoliciesComponent() {
 					<p>Em caso de d&uacute;vidas e solicita&ccedil;&otilde;es, entre em contato com o nosso Encarregado pelo Tratamento de Dados Pessoais, pelo e-mail abaixo:</p>
 
 
-					<p>suporte@cashwave.com.br</p>
+					<p>suporte@cashwavepagamentos.com.br</p>
 
 
 					<p>Ser&aacute; um prazer ajudar!</p>

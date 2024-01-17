@@ -30,7 +30,7 @@ export function FooterPolicies() {
 					<h3>
 						Fale Conosco
 					</h3>
-					<p><b>Email:</b> suporte@cashwave.com.br</p>
+					<p><b>Email:</b> suporte@cashwavepagamentos.com.br</p>
 				</div>
 				<div className='RightFooter'>
 					<h3>
