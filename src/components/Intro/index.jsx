@@ -23,7 +23,7 @@ export function Intro() {
 				</div>
 				<p>de Pagamentos</p>
 				<span>A solução que você procurava está disponível para aprimorar o seu empreendimento digital. Nossa plataforma apresenta funcionalidades inteligentes destinadas a impulsionar suas vendas por meio da automação, além de um processo de finalização de compra incomparável. Agora, você tem ao seu alcance a resposta definitiva para melhorar o seu negócio.</span>
-				<a href='https://api.whatsapp.com/send?phone=5562985914974&text=Olá,%20gostaria%20de%20mais%20informações%20sobre%20a%20IG Pagamentos!' target='_blank'><button className='ButtonAccess'>Fale conosco</button></a>
+				<a href='https://api.whatsapp.com/send?phone=5562998573057&text=Olá,%20gostaria%20de%20mais%20informações%20sobre%20a%20IG Pagamentos!' target='_blank'><button className='ButtonAccess'>Fale conosco</button></a>
 			</div>
 			<div className='BackGroundImageIntro'>
 				<motion.img src={waveapp} alt="" className='ImageIntroContainer'
