@@ -25,7 +25,7 @@ export function Footer() {
 					<h3>
 						Fale Conosco
 					</h3>
-					<p><b>Email:</b> suporte@igpagamentospagamentos.com.br</p>
+					<p><b>Email:</b> suporte@igpagamentos.com</p>
 				</div>
 				<div className='RightFooter'>
 					<h3>

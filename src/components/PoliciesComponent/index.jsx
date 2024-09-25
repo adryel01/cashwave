@@ -244,7 +244,7 @@ export function PoliciesComponent() {
 					<p>Em caso de d&uacute;vidas e solicita&ccedil;&otilde;es, entre em contato com o nosso Encarregado pelo Tratamento de Dados Pessoais, pelo e-mail abaixo:</p>
 
 
-					<p>suporte@igpagamentospagamentos.com.br</p>
+					<p>suporte@igpagamentos.com</p>
 
 
 					<p>Ser&aacute; um prazer ajudar!</p>
