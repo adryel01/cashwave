@@ -12,7 +12,7 @@ export function HeaderContainer() {
 	return (
 		<div className="HeaderContainer">
 			<Link to={'/'} className='LogoHeader'>
-				<h3>Cash<span className='WaveName'>Wave</span></h3>
+				<h3>IG<span className='WaveName'> Pagamentos</span></h3>
 			</Link>
 			<nav className="NavHeader">
 				{/* <a href="https://app.gateway.cashtimepay.com.br/register" className='LinkAcessHeader' target='_blank' >Acessar Gateway</a> */}

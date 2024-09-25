@@ -3,7 +3,7 @@ import { motion } from "framer-motion"
 
 export function FenyxComponent() {
 
-	const text = "Saiba o que a CashWave oferece para o seu negócio!";
+	const text = "Saiba o que a IG Pagamentos oferece para o seu negócio!";
 
 
 	const textVariants = {
@@ -26,7 +26,7 @@ export function FenyxComponent() {
 		<div>
 			<div className='FenyxTitle'>
 				<h2>As melhores ferramentas seu negócio online</h2>
-				{/* <h1>Saiba o que a CashWave oferece para o seu negócio!</h1> */}
+				{/* <h1>Saiba o que a IG Pagamentos oferece para o seu negócio!</h1> */}
 				<motion.h1
 					variants={containerVariants}
 					initial="hidden"
@@ -49,7 +49,7 @@ export function FenyxComponent() {
 					</div>
 
 					<b>Processamento de Pagamentos</b>
-					<p>Com a CashWave, você conta com os principais métodos de pagamento para o seu empreendimento, eliminando a necessidade de lidar com a integração de distintos gateways, adquirentes e instituições bancárias.</p>
+					<p>Com a IG Pagamentos, você conta com os principais métodos de pagamento para o seu empreendimento, eliminando a necessidade de lidar com a integração de distintos gateways, adquirentes e instituições bancárias.</p>
 				</div>
 				<div className='FenyxCard'>
 					<div className='BgIcon'>

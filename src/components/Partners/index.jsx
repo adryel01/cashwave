@@ -14,7 +14,7 @@ export function Partners() {
 		<section className='PartnersContainer'>
 			<div className='BackgroundPartners'>
 				<h1>Integração com os melhores aplicativos do mercado digital</h1>
-				<h2>Aqui na CashWave você consegue integrações para o que precisar.</h2>
+				<h2>Aqui na IG Pagamentos você consegue integrações para o que precisar.</h2>
 			</div>
 
 			<section className='SkillContainer'>
