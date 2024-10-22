@@ -10,17 +10,17 @@ export function PoliciesComponent() {
 				<h1>Políticas de Privacidade</h1>
 
 				<div>
-					<p>CONTROLADORA DOS DADOS: CASHWAVE FACILITADORA DE PAGAMENTO LTDA('CASHWAVE'), com sede em AV PADRE WENDEL, Nº 1089, Q565 L11 SALA01, BRO AEROVIARIO, CEP 74.735-115, GOIÂNIA-GO</p>
+					<p>CONTROLADORA DOS DADOS: IG FINANÇAS('IG Pagamentos'), com sede em RUA 5 DE JULHO, Nº 764, Q13 L12, ST JARDIM GRAMADO, CEP 74.583-715, GOIÂNIA-GO</p>
 
 
 					<p>Ol&aacute;, bem-vindo(a)!</p>
 
 
-					<p>N&oacute;s da CASHWAVE valorizamos a privacidade e queremos contribuir para a prote&ccedil;&atilde;o de seus dados pessoais. Por essa raz&atilde;o, apresentamos nossa Pol&iacute;tica de Privacidade, para que voc&ecirc; saiba como fazemos uso de seus dados pessoais.</p>
+					<p>N&oacute;s da IG Pagamentos valorizamos a privacidade e queremos contribuir para a prote&ccedil;&atilde;o de seus dados pessoais. Por essa raz&atilde;o, apresentamos nossa Pol&iacute;tica de Privacidade, para que voc&ecirc; saiba como fazemos uso de seus dados pessoais.</p>
 
 
 					<ol>
-						<li><strong>O que faz a CASHWAVE?</strong></li>
+						<li><strong>O que faz a IG Pagamentos?</strong></li>
 					</ol>
 
 
@@ -31,7 +31,7 @@ export function PoliciesComponent() {
 
 
 					<ol start="2">
-						<li><strong>Como Funciona o Tratamento de Dados Por Parte da CASHWAVE</strong></li>
+						<li><strong>Como Funciona o Tratamento de Dados Por Parte da IG Pagamentos</strong></li>
 					</ol>
 
 
@@ -123,19 +123,19 @@ export function PoliciesComponent() {
 					</ol>
 
 
-					<p>Em s&iacute;ntese, utilizamos os dados pessoais coletados para finalidades ligadas &agrave; presta&ccedil;&atilde;o de nossos servi&ccedil;os; ou seja, os dados fornecidos pelos Usu&aacute;rios ser&atilde;o armazenados e utilizados pela CASHWAVE ou por terceiros por ela contratados, para fornecer seus servi&ccedil;os de uso da plataforma e para o envio de mensagens sobre produtos, servi&ccedil;os, promo&ccedil;&otilde;es e/ou novidades da plataforma, bem como sobre registros de sistema, atualiza&ccedil;&otilde;es, registro de chamados, entre outros, caso o cliente assim autorize e permita. Utilizamos ainda com as seguintes finalidades:</p>
+					<p>Em s&iacute;ntese, utilizamos os dados pessoais coletados para finalidades ligadas &agrave; presta&ccedil;&atilde;o de nossos servi&ccedil;os; ou seja, os dados fornecidos pelos Usu&aacute;rios ser&atilde;o armazenados e utilizados pela IG Pagamentos ou por terceiros por ela contratados, para fornecer seus servi&ccedil;os de uso da plataforma e para o envio de mensagens sobre produtos, servi&ccedil;os, promo&ccedil;&otilde;es e/ou novidades da plataforma, bem como sobre registros de sistema, atualiza&ccedil;&otilde;es, registro de chamados, entre outros, caso o cliente assim autorize e permita. Utilizamos ainda com as seguintes finalidades:</p>
 
 
-					<p>Parcerias e melhoria da plataforma: Os dados poder&atilde;o ser compartilhados com terceiros contratados pela CASHWAVE para uso nas ferramentas de manuten&ccedil;&atilde;o da plataforma, presta&ccedil;&atilde;o de servi&ccedil;os de parceiros e an&uacute;ncios personalizados;</p>
+					<p>Parcerias e melhoria da plataforma: Os dados poder&atilde;o ser compartilhados com terceiros contratados pela IG Pagamentos para uso nas ferramentas de manuten&ccedil;&atilde;o da plataforma, presta&ccedil;&atilde;o de servi&ccedil;os de parceiros e an&uacute;ncios personalizados;</p>
 
 
-					<p>Comunica&ccedil;&atilde;o com o usu&aacute;rio: A CASHWAVE utilizar&aacute; o e-mail ou telefone do usu&aacute;rio para enviar informa&ccedil;&otilde;es sobre sua assinatura de planos (confirma&ccedil;&atilde;o de Compra e atualiza&ccedil;&otilde;es da situa&ccedil;&atilde;o da assinatura), atualiza&ccedil;&otilde;es, comunica&ccedil;&atilde;o de novas features, registros de sistema e sugest&otilde;es de melhoria de uso de nossa plataforma;</p>
+					<p>Comunica&ccedil;&atilde;o com o usu&aacute;rio: A IG Pagamentos utilizar&aacute; o e-mail ou telefone do usu&aacute;rio para enviar informa&ccedil;&otilde;es sobre sua assinatura de planos (confirma&ccedil;&atilde;o de Compra e atualiza&ccedil;&otilde;es da situa&ccedil;&atilde;o da assinatura), atualiza&ccedil;&otilde;es, comunica&ccedil;&atilde;o de novas features, registros de sistema e sugest&otilde;es de melhoria de uso de nossa plataforma;</p>
 
 
-					<p>Publicidade via mala direta, e-mail ou SMS: No momento do cadastro de seus dados de contato, o Usu&aacute;rio ter&aacute; a op&ccedil;&atilde;o de aceitar ou proibir o envio de mensagens publicit&aacute;rias. Ademais, a qualquer momento, o Usu&aacute;rio poder&aacute; alterar sua decis&atilde;o, acessando sua conta no site ou entrando em contato com o SAC ou, ainda, atrav&eacute;s do campo de descadastro existente nas newsletters enviadas pela CASHWAVE, sendo que, neste caso, o descadastramento da base de dados poder&aacute; levar at&eacute; 90 dias &uacute;teis para ser efetivado.</p>
+					<p>Publicidade via mala direta, e-mail ou SMS: No momento do cadastro de seus dados de contato, o Usu&aacute;rio ter&aacute; a op&ccedil;&atilde;o de aceitar ou proibir o envio de mensagens publicit&aacute;rias. Ademais, a qualquer momento, o Usu&aacute;rio poder&aacute; alterar sua decis&atilde;o, acessando sua conta no site ou entrando em contato com o SAC ou, ainda, atrav&eacute;s do campo de descadastro existente nas newsletters enviadas pela IG Pagamentos, sendo que, neste caso, o descadastramento da base de dados poder&aacute; levar at&eacute; 90 dias &uacute;teis para ser efetivado.</p>
 
 
-					<p>Al&eacute;m das formas expostas acima, a CASHWAVE poder&aacute;, a seu exclusivo crit&eacute;rio, utilizar os dados pessoais do Usu&aacute;rio nas seguintes formas: (i) atualiza&ccedil;&atilde;o de cadastro; (ii) garantia da seguran&ccedil;a do Usu&aacute;rio; (iii) resposta a solicita&ccedil;&otilde;es do pr&oacute;prio Usu&aacute;rio; (iv) informa&ccedil;&atilde;o acerca de altera&ccedil;&otilde;es nos Termos e Condi&ccedil;&otilde;es de Uso ou das Pol&iacute;ticas de Privacidade; (v) elabora&ccedil;&atilde;o de estat&iacute;sticas com rela&ccedil;&atilde;o ao uso do Site, garantido o anonimato do Usu&aacute;rio, inclusive para fins de aperfei&ccedil;oamento e entendimento do perfil dos Usu&aacute;rios para a melhoria da plataforma; (vi) aperfei&ccedil;oamento de ferramentas de interatividade entre a plataforma e o Usu&aacute;rio, garantido seu anonimato; (vii) cumprimento de ordens judiciais; e (viii) defesa dos direitos da CASHWAVE contra o Usu&aacute;rio malicioso em procedimentos judiciais ou administrativos.</p>
+					<p>Al&eacute;m das formas expostas acima, a IG Pagamentos poder&aacute;, a seu exclusivo crit&eacute;rio, utilizar os dados pessoais do Usu&aacute;rio nas seguintes formas: (i) atualiza&ccedil;&atilde;o de cadastro; (ii) garantia da seguran&ccedil;a do Usu&aacute;rio; (iii) resposta a solicita&ccedil;&otilde;es do pr&oacute;prio Usu&aacute;rio; (iv) informa&ccedil;&atilde;o acerca de altera&ccedil;&otilde;es nos Termos e Condi&ccedil;&otilde;es de Uso ou das Pol&iacute;ticas de Privacidade; (v) elabora&ccedil;&atilde;o de estat&iacute;sticas com rela&ccedil;&atilde;o ao uso do Site, garantido o anonimato do Usu&aacute;rio, inclusive para fins de aperfei&ccedil;oamento e entendimento do perfil dos Usu&aacute;rios para a melhoria da plataforma; (vi) aperfei&ccedil;oamento de ferramentas de interatividade entre a plataforma e o Usu&aacute;rio, garantido seu anonimato; (vii) cumprimento de ordens judiciais; e (viii) defesa dos direitos da IG Pagamentos contra o Usu&aacute;rio malicioso em procedimentos judiciais ou administrativos.</p>
 
 
 					<ol start="5">
@@ -169,7 +169,7 @@ export function PoliciesComponent() {
 					</ol>
 
 
-					<p>Na CASHWAVE, implementamos todas as medidas de seguran&ccedil;a que est&atilde;o ao nosso alcance para proteger os seus dados pessoais de acessos n&atilde;o autorizados e de situa&ccedil;&otilde;es acidentais ou il&iacute;citas de destrui&ccedil;&atilde;o, perda, altera&ccedil;&atilde;o, comunica&ccedil;&atilde;o ou difus&atilde;o.</p>
+					<p>Na IG Pagamentos, implementamos todas as medidas de seguran&ccedil;a que est&atilde;o ao nosso alcance para proteger os seus dados pessoais de acessos n&atilde;o autorizados e de situa&ccedil;&otilde;es acidentais ou il&iacute;citas de destrui&ccedil;&atilde;o, perda, altera&ccedil;&atilde;o, comunica&ccedil;&atilde;o ou difus&atilde;o.</p>
 
 
 					<p>Temos uma pol&iacute;tica interna de prote&ccedil;&atilde;o de dados, que se aplica a todos aqueles que tratam dados pessoais em nosso nome, e contamos com um robusto plano de resposta a incidentes em caso de ocorr&ecirc;ncia de alguma situa&ccedil;&atilde;o indesejada relacionada aos dados que tratamos.</p>
@@ -186,7 +186,7 @@ export function PoliciesComponent() {
 					</ol>
 
 
-					<p>A reten&ccedil;&atilde;o de dados pessoais pela CASHWAVE respeita as seguintes diretrizes:</p>
+					<p>A reten&ccedil;&atilde;o de dados pessoais pela IG Pagamentos respeita as seguintes diretrizes:</p>
 
 
 					<p>Apenas s&atilde;o mantidos dados pessoais estritamente necess&aacute;rios para o cumprimento das finalidades do tratamento, ou seja, aqueles informados espontaneamente pelo usu&aacute;rio e informa&ccedil;&otilde;es de compliance, pelo prazo de 05 (cinco) anos. Assim, nos livramos de dados pessoais desnecess&aacute;rios ou excessivos.</p>
@@ -215,7 +215,7 @@ export function PoliciesComponent() {
 					<p>Exclus&atilde;o: dados fornecidos mediante consentimento podem ser alvo de exclus&atilde;o. Contudo, &eacute; poss&iacute;vel que, mesmo ap&oacute;s o requerimento de exclus&atilde;o, alguns dados pessoais permane&ccedil;am armazenados, devido a obriga&ccedil;&otilde;es legais ou para a prote&ccedil;&atilde;o de interesses nossos ou de nossos clientes.</p>
 
 
-					<p>Oposi&ccedil;&atilde;o: voc&ecirc; pode se opor ao tratamento de seus dados pessoais por parte da CASHWAVE.</p>
+					<p>Oposi&ccedil;&atilde;o: voc&ecirc; pode se opor ao tratamento de seus dados pessoais por parte da IG Pagamentos.</p>
 
 
 					<p>Aten&ccedil;&atilde;o: a oposi&ccedil;&atilde;o do Usu&aacute;rio sobre o tratamento de seus dados pessoais, autorizados pela concord&acirc;ncia com esta Pol&iacute;tica de Privacidade, acarretar&aacute; sua impossibilidade de utilizar os servi&ccedil;os que oferecemos.</p>
@@ -227,10 +227,10 @@ export function PoliciesComponent() {
 					<p><strong>Pol&iacute;tica de Consentimento</strong></p>
 
 
-					<p>Na CASHWAVE, nos esfor&ccedil;amos para respeitar e proteger a privacidade dos nossos usu&aacute;rios. N&oacute;s s&oacute; iremos contat&aacute;-lo atrav&eacute;s do WhatsApp se voc&ecirc; nos forneceu o seu n&uacute;mero de telefone e expressou consentimento para ser contatado por n&oacute;s por meio desse canal.</p>
+					<p>Na IG Pagamentos, nos esfor&ccedil;amos para respeitar e proteger a privacidade dos nossos usu&aacute;rios. N&oacute;s s&oacute; iremos contat&aacute;-lo atrav&eacute;s do WhatsApp se voc&ecirc; nos forneceu o seu n&uacute;mero de telefone e expressou consentimento para ser contatado por n&oacute;s por meio desse canal.</p>
 
 
-					<p>Ao fornecer seu n&uacute;mero de telefone e concordar em ser contatado pelo WhatsApp, voc&ecirc; est&aacute; dando &agrave; CASHWAVE permiss&atilde;o para enviar mensagens relacionadas a nossos servi&ccedil;os, incluindo, mas n&atilde;o se limitando a, atualiza&ccedil;&otilde;es de servi&ccedil;os, notifica&ccedil;&otilde;es de produtos e promo&ccedil;&otilde;es.</p>
+					<p>Ao fornecer seu n&uacute;mero de telefone e concordar em ser contatado pelo WhatsApp, voc&ecirc; est&aacute; dando &agrave; IG Pagamentos permiss&atilde;o para enviar mensagens relacionadas a nossos servi&ccedil;os, incluindo, mas n&atilde;o se limitando a, atualiza&ccedil;&otilde;es de servi&ccedil;os, notifica&ccedil;&otilde;es de produtos e promo&ccedil;&otilde;es.</p>
 
 
 					<p>Se em qualquer momento voc&ecirc; decidir que n&atilde;o deseja mais receber essas comunica&ccedil;&otilde;es, voc&ecirc; pode nos notificar e iremos interromper imediatamente todas as comunica&ccedil;&otilde;es atrav&eacute;s do WhatsApp. Agradecemos sua confian&ccedil;a e faremos o nosso melhor para respeitar e proteger sua privacidade.</p>
@@ -244,7 +244,7 @@ export function PoliciesComponent() {
 					<p>Em caso de d&uacute;vidas e solicita&ccedil;&otilde;es, entre em contato com o nosso Encarregado pelo Tratamento de Dados Pessoais, pelo e-mail abaixo:</p>
 
 
-					<p>suporte@cashwavepagamentos.com.br</p>
+					<p>suporte@igpagamentos.com</p>
 
 
 					<p>Ser&aacute; um prazer ajudar!</p>

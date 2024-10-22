@@ -13,7 +13,7 @@ export function Footer() {
 			<nav>
 				<div className='LeftFooter'>
 					<h2 className='LogoFooter'>
-						<h3>Cash<span className='WaveName'>Wave</span></h3>
+						<h3>IG<span className='WaveName'> Pagamentos</span></h3>
 					</h2>
 					<div className='IconsFooter'>
 						<FaInstagram color='#fff' />
@@ -25,7 +25,7 @@ export function Footer() {
 					<h3>
 						Fale Conosco
 					</h3>
-					<p><b>Email:</b> suporte@cashwavepagamentos.com.br</p>
+					<p><b>Email:</b> suporte@igpagamentos.com</p>
 				</div>
 				<div className='RightFooter'>
 					<h3>
@@ -36,13 +36,13 @@ export function Footer() {
 				</div>
 			</nav>
 			<div className='CopyRight'>
-				<span>© Copyright 2024・CashWave・Todos os direitos reservados.</span>
+				<span>© Copyright 2024・IG Pagamentos・Todos os direitos reservados.</span>
 				<div>
-					<p>CASHWAVE FACILITADORA DE PAGAMENTO LTDA</p>
-					<span>AV PADRE WENDEL, Nº 1089, Q565 L11 SALA01, BRO AEROVIARIO</span>
-					<span>CEP 74.735-115, GOIÂNIA-GO</span>
+					<p>IG Finanças</p>
+					<p>RUA 5 DE JULHO, Nº 764, Q13 L12, ST JARDIM GRAMADO</p>
+					<span>CEP 74.583-715, GOIÂNIA-GO</span>
 				</div>
-				<span>CNPJ: 51.927.973/0001-85</span>
+				<span>CNPJ: 54.779.980/0001-00</span>
 			</div>
 		</footer>
 	)
