@@ -16,7 +16,7 @@ export function Home (){
 		<div>
 			<HeaderContainer />
 			<Intro/>
-			{/* <Skills/> */}
+			
 			<FenyxComponent/>
 			{/* <BetterCheckout/> */}
 			<Integration/>
