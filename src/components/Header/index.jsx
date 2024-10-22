@@ -16,7 +16,7 @@ export function HeaderContainer() {
 			</Link>
 			<nav className="NavHeader">
 				
-				{/* <a href='https://app.cashtimepayments.com.br/register' target='_blank'><button className='SignUpButtonHeader'>Acessar Checkout</button></a> */}
+				{/* <a href='https://app.cashtimepayments.com.br/' target='_blank'><button className='SignUpButtonHeader'>Acessar Checkout</button></a> */}
 			</nav>
 		</div>
 	)
