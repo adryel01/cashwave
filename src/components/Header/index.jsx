@@ -15,7 +15,7 @@ export function HeaderContainer() {
 				<h3>Cash<span className='WaveName'>Wave</span></h3>
 			</Link>
 			<nav className="NavHeader">
-				{/* <a href="https://app.gateway.cashtimepay.com.br/register" className='LinkAcessHeader' target='_blank' >Acessar Gateway</a> */}
+				
 				{/* <a href='https://app.cashtimepayments.com.br/register' target='_blank'><button className='SignUpButtonHeader'>Acessar Checkout</button></a> */}
 			</nav>
 		</div>
